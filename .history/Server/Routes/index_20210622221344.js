@@ -1,9 +1,3 @@
-// FileName:Midterm Test
-//Author's Name: Wen Xu
-//Student ID:301098127
-// Web App name: Favourite Book List web app 
-
-
 "use strict";
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
